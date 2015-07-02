@@ -26,23 +26,36 @@ TODO
 ###################
 #DATA DESCRIPTION:#
 ###################
-data_split/{ace|ere}:
+data_split/{ace|ere}/:
+
 Our data split for ACE 2005 and ERE.
-emb:
+
+emb/:
+
 The word embeddings used in our paper (filtered based on the ACE and ERE vocabulary).
 
 References
 =======
 If you want to cite this tool, please using the following bibtext:
+
 @InProceedings{yu-gormley-dredze:2015:NAACL-HLT,
+
   author    = {Yu, Mo  and  Gormley, Matthew R.  and  Dredze, Mark},
+  
   title     = {Combining Word Embeddings and Feature Embeddings for Fine-grained Relation Extraction},
+  
   booktitle = {Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  
   month     = {May--June},
+  
   year      = {2015},
+  
   address   = {Denver, Colorado},
+  
   publisher = {Association for Computational Linguistics},
+  
   pages     = {1374--1379},
+  
   url       = {http://www.aclweb.org/anthology/N15-1155}
 }
 

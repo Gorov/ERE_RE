@@ -16,12 +16,16 @@ We provide two tools in this package:
 #######################################
 #Feature-Rich Compositional Model(FCM)#
 #######################################
-TODO
+code/fcm:
+
+We build the tools for ACE and ERE relation extraction on top of the FCM code from https://github.com/Gorov/FCM_nips_workshop.
 
 #######
 #LRFCM#
 #######
-TODO
+code/lrfcm:
+
+The code for low-rank FCM proposed in our paper.
 
 ###################
 #DATA DESCRIPTION:#
